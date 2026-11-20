@@ -1,5 +1,4 @@
-# CMD.exe-Digital-Playground
-An interactive Windows Batch command-line playground with mini-games and visual effects.
+
 # CMD.exe — Digital Playground
 
 **The command line just got a little more interesting.**
