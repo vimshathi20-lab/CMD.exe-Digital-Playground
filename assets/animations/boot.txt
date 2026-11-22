@@ -1,0 +1,5 @@
+[          ] INITIALIZING
+[##        ] LOADING MODULES
+[#####     ] PREPARING TERMINAL
+[########  ] ACTIVATING SYSTEM
+[##########] SYSTEM ONLINE

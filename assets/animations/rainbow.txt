@@ -1,0 +1,5 @@
+[ RED     ] CMD.exe
+[ YELLOW  ] CMD.exe
+[ GREEN   ] CMD.exe
+[ CYAN    ] CMD.exe
+[ MAGENTA ] CMD.exe
